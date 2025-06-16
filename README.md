@@ -18,4 +18,6 @@ Project Workflow:
 6. Exporting the project_data into .csv and importing the data into Tableau
 7. Data Visualization in Tableau. 
    
-Tableau Dashboard : https://public.tableau.com/app/profile/sravya.arutla/viz/LoanPerformanceMetrics/Dashboard1
+Tableau Dashboard : https://public.tableau.com/app/profile/shreeyash.lahane/viz/FinancialAnalytics-LoanPerformance/Dashboard1
+
+Tableau Public Profile : https://public.tableau.com/app/profile/shreeyash.lahane/vizzes
